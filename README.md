@@ -12,7 +12,7 @@ Proyecto de clasificación cuyo objetivo es analizar los factores relacionados c
 
 El trabajo incluye análisis exploratorio de los datos, tratamiento de valores faltantes, análisis de variables, codificación de variables categóricas y tratamiento del desbalanceo de clases mediante SMOTE.
 
-Se entrenan y comparan distintos modelos de clasificación, entre ellos:
+Se entrenan y comparan distintos modelos de clasificación:
 
 - K-Nearest Neighbors (KNN)
 - Decision Tree
@@ -72,3 +72,12 @@ Machine-Learning-Projects/
 │   └── seeds_classification.ipynb
 │
 └── README.md
+```
+
+Cada directorio contiene el notebook correspondiente con el desarrollo completo del análisis, incluyendo el preprocesamiento de los datos, entrenamiento o aplicación de los modelos, evaluación y visualización de resultados.
+
+## Autor
+
+Ana Claver Miranda  
+Ingeniería Informática  
+Universidad Carlos III de Madrid (UC3M)
